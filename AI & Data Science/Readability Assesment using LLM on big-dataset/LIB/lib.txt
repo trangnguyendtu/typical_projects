@@ -1,0 +1,17 @@
+numpy
+regex
+pandas
+matplotlib
+statistics
+math
+seaborn
+os
+sklearn
+tensorflow
+keras
+transformers
+tokenizers
+collections
+nltk
+glob
+string
